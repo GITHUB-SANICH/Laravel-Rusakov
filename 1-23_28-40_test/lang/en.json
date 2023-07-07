@@ -1,0 +1,6 @@
+{
+	"welcome": "welcome from JSON :name!",
+	"password": "password",
+	"error": "error",
+	"hello": "hello, :name!"
+}

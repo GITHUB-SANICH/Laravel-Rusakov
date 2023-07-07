@@ -1,0 +1,1 @@
+<input class="input-type" type="{{$inputType}}" value="{{$value}}" placeholder="{{$attributes['placeholder']}}">
